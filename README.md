@@ -8,8 +8,8 @@ A simple program to search businesses with rating above 4.5 in a city of your ch
 
 ## Installation
 
-git clone https://github.com/wizaad/wizscrap.git
-sudo apt install python3-censys
+* git clone https://github.com/wizaad/wizscrap.git
+* sudo apt install python3-censys
 
 ---
 
