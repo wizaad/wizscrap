@@ -1,32 +1,46 @@
+Copy code
 # wizscrap
 
-**Version 1.0.0**
+**Version 2.1.0**
 
-A simple program to search businesses with rating above 4.5 in a city of your choice.
+A powerful program to search for highly-rated businesses in a city of your choice.
 
 ---
 
 ## Installation
 
-* git clone https://github.com/wizaad/wizscrap.git
-* sudo apt install python3-censys
+1. Clone the repository:
+git clone https://github.com/wizaad/wizscrap.git
+
+
+
+2. Install required packages:
+sudo apt install python3-requests python3-beautifulsoup4
+
 
 ---
 
 ## Usage
 
+1. Navigate to the cloned directory:
+cd wizscrap
+
+
+2. Run the script:
 python3 wizscrap.py
+
+
+3. Follow the prompts to enter the type of business and city you're looking for.
 
 ---
 
 ## Contributors
 
 - Mr Wizaad <wizaad@protonmail.com>
+website: www.wizaad.com
 
 ---
 
-## Licence & copyright
+## License & Copyright
 
- © Mr. Wizaad Limited 2021 All rights reserved
-
- 
+© Hello Wizaad Limited 2023. All rights reserved.
